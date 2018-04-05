@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://infra.poptech.io/blog/roadmap-pour-pop/</loc>
+    <lastmod>2018-04-04T15:00:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://infra.poptech.io/blog/roadmap-pour-poptech/</loc>
+    <lastmod>2018-04-04T14:50:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://infra.poptech.io/faq/</loc>
+    <lastmod>2018-04-04T14:40:43+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://infra.poptech.io/presentation/</loc>
+    <lastmod>2018-04-04T12:20:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://infra.poptech.io/blog/</loc>
+    <lastmod>2018-04-04T15:00:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://infra.poptech.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://infra.poptech.io/</loc>
+    <lastmod>2018-04-04T15:00:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://infra.poptech.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

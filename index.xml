@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation sur l&#39;infrastructure POP Tech</title>
+    <link>https://infra.poptech.io/</link>
+    <description>Recent content on Documentation sur l&#39;infrastructure POP Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 04 Apr 2018 15:00:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://infra.poptech.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Roadmap pour Pop</title>
+      <link>https://infra.poptech.io/blog/roadmap-pour-pop/</link>
+      <pubDate>Wed, 04 Apr 2018 15:00:46 +0200</pubDate>
+      
+      <guid>https://infra.poptech.io/blog/roadmap-pour-pop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roadmap pour Poptech</title>
+      <link>https://infra.poptech.io/blog/roadmap-pour-poptech/</link>
+      <pubDate>Wed, 04 Apr 2018 14:50:09 +0200</pubDate>
+      
+      <guid>https://infra.poptech.io/blog/roadmap-pour-poptech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faq</title>
+      <link>https://infra.poptech.io/faq/</link>
+      <pubDate>Wed, 04 Apr 2018 14:40:43 +0200</pubDate>
+      
+      <guid>https://infra.poptech.io/faq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation de l&#39;infrastructure POP Tech</title>
+      <link>https://infra.poptech.io/presentation/</link>
+      <pubDate>Wed, 04 Apr 2018 12:20:47 +0200</pubDate>
+      
+      <guid>https://infra.poptech.io/presentation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
